@@ -61,12 +61,12 @@ img{
     border-radius: 10px;
    
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 320px) {
     body {
         flex-direction: column;
         justify-content: flex-start;
         align-items: center;
-
+        background-image: url("/assets/css/papel.jpeg");
         }
     body h1 {
         font-size: 8vw;
@@ -107,17 +107,4 @@ img{
         margin-left: auto;
         margin-right: auto;
     }
-}
-
-@media screen and (max-width: 320px) {
-    body {
-        height: 100vh;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        background-image: url('https://mir-s3-cdn-cf.behance.net/project_modules/disp/44613062079901.5e703d2cf3c89.gif');
-        /* background-size: cover; */
-        width: 100%;
-    }
-
 }
