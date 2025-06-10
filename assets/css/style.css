@@ -61,7 +61,7 @@ img{
     border-radius: 10px;
    
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 768px) {
     body {
         height:100vh;
         display:flex;
@@ -73,7 +73,7 @@ img{
         }
     body h1 {
         font-size: 8vw;
-        margin-top: 2rem;
+        margin-top: 5vh;
         margin-bottom: 2rem;
         position: static;
         text-align: center;
