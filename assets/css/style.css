@@ -67,7 +67,7 @@ img{
         flex-direction: column;
         justify-content: flex-start;
         align-items: center;
-        background-image: url("/assets/css/papel.jpeg");
+        background-image: url("papel.jpeg");
         background-size: cover;
         }
     body h1 {
