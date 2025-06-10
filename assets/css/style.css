@@ -69,6 +69,7 @@ img{
         justify-content: flex-start;
         align-items: center;
         background-image: url("/assets/css/papel.jpeg");
+        background-size: cover;
         }
     body h1 {
         font-size: 8vw;
