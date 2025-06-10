@@ -11,7 +11,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url(/img/papel.gif);
+    background-image: url(/papel.gif);
     background-size: cover;
 }
 body h1{

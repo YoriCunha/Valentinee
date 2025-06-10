@@ -28,6 +28,6 @@ setInterval(() => {
     setTimeout(() => {
         img.style.opacity = 1; // Fade in// Wait for fade out to complete
         indice = (indice + 1) % imagens.length;
-        img.src = `/img/${imagens[indice]}`;
+        img.src = imagens[indice];
     }, 500);
 }, 2000);
