@@ -78,8 +78,8 @@ img{
         text-align: center;
     }
     .relogio {
-        width: 50vw;
-        height: 50vh;
+        width: 55vw;
+        height: 55vh;
         padding:1vh;
         gap: 0.5rem;
         flex-direction: column;
@@ -88,14 +88,14 @@ img{
         text-align: center;
     }
     .relogio div {
-        width: 35vw;
-        min-width: 70px;
+        margin: 1vh;
+        width: 30vw;
         height: auto;
         min-height: 70px;
-        margin-bottom: 1rem;
+        margin-bottom: 2vh;
     }
     .relogio span {
-        font-size: 8vw;
+        font-size: 7vw;
     }
     .relogio span.tempo {
         font-size: 3vw;
@@ -103,7 +103,7 @@ img{
     img {
         width: 45vw;
         max-width: 250px;
-        margin-top: 1rem;
+        margin-top: 3vh;
         position: static;
         display: block;
         margin-left: auto;
