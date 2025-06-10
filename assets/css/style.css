@@ -11,7 +11,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url(/papel.gif);
+    background-image: url('https://mir-s3-cdn-cf.behance.net/project_modules/disp/44613062079901.5e703d2cf3c89.gif');
     background-size: cover;
 }
 body h1{
@@ -66,7 +66,9 @@ img{
         flex-direction: column;
         justify-content: flex-start;
         align-items: center;
-    }
+        background-image: url(/papel.gif);
+        background-size:cover;
+        }
     body h1 {
         font-size: 8vw;
         margin-top: 2rem;
